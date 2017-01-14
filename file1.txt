@@ -1,1 +1,1 @@
-Hi, this is file1 before comming from windows.
+Hi, this is file1 before commiting from windows.
